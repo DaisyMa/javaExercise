@@ -13,7 +13,7 @@
     <session id="-735890100">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
@@ -22,45 +22,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6898" />
+          <entry key="java" value="7760" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6898" />
+          <entry key="JAVA" value="7760" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
-          <entry key="java" value="29" />
+          <entry key="java" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="4" />
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StaticInitialization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-              <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PrimitiveOverLoading.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#27#28#0" expanded="true" />
                 <element signature="e#48#49#0" expanded="true" />
@@ -184,10 +169,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Value.java">
+        <entry file="file://$PROJECT_DIR$/src/Orc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="399">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding>
+                <element signature="e#58#59#0" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FinalData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,6 +240,9 @@
         <option value="$PROJECT_DIR$/src/Batch.java" />
         <option value="$PROJECT_DIR$/src/Detergent.java" />
         <option value="$PROJECT_DIR$/src/Chess.java" />
+        <option value="$PROJECT_DIR$/src/ORc.java" />
+        <option value="$PROJECT_DIR$/src/Orc.java" />
+        <option value="$PROJECT_DIR$/src/FinalData.java" />
       </list>
     </option>
   </component>
@@ -239,11 +252,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1938" />
+    <option name="y" value="232" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -264,6 +277,18 @@
               <item name="JavaExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chess.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Mugs.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -276,7 +301,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/mayanli/CodeStudy/JavaExercise/src/VarArgs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546078773883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546410754136" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -291,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Chess">
+  <component name="RunManager" selected="Application.FinalData">
     <configuration name="Batch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Batch" />
       <module name="JavaExercise" />
@@ -313,8 +338,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiDimArray" />
+    <configuration name="FinalData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalData" />
       <module name="JavaExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -328,19 +353,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultiDimArray" />
       <item itemvalue="Application.TestArray" />
       <item itemvalue="Application.Batch" />
       <item itemvalue="Application.Detergent" />
       <item itemvalue="Application.Chess" />
+      <item itemvalue="Application.FinalData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalData" />
         <item itemvalue="Application.Chess" />
         <item itemvalue="Application.Detergent" />
         <item itemvalue="Application.Batch" />
         <item itemvalue="Application.TestArray" />
-        <item itemvalue="Application.MultiDimArray" />
       </list>
     </recent_temporary>
   </component>
@@ -357,17 +382,18 @@
       <workItem from="1544428542883" duration="28644000" />
       <workItem from="1544668326845" duration="329000" />
       <workItem from="1544774354366" duration="598000" />
-      <workItem from="1546067576582" duration="7693000" />
+      <workItem from="1546067576582" duration="14463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37264000" />
+    <option name="totallyTimeSpent" value="44034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20663811" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20663811" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,7 +402,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48004434" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31374723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -652,13 +678,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#27#28#0" expanded="true" />
             <element signature="e#48#49#0" expanded="true" />
             <element signature="e#378#379#0" expanded="true" />
             <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Orc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
           </folding>
         </state>
       </provider>
