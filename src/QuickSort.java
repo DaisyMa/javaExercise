@@ -12,7 +12,7 @@ public class QuickSort {
             return;
         }
 
-        int i=head,j=tail,pivot=arr[(head+tail)/2];
+        int i=head,j=tail,pivot=arr[(i+j)/2];
         while (i<=j){
             while (arr[i]<pivot){
                 ++i;
